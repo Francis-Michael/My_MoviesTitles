@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Top 10 Movies</string>
+
+    <string-array name="Movies_Titles">
+
+
+        <item>Predestination</item>
+        <item>The Dark Knight</item>
+        <item>The Notebook</item>
+        <item>American Sniper</item>
+        <item>Bird Man</item>
+        <item>The Imitation Game</item>
+        <item>Interstellar</item>
+        <item>Kofi Town</item>
+        <item>FoxCatcher</item>
+        <item>Furry</item>
+    </string-array>
+
+    <string-array name="Movie_Ratings">
+         <item>Rating:7.4/10</item>
+        <item>Rating:8/10</item>
+        <item>Rating:8/10</item>
+        <item>Rating:7.8/10</item>
+        <item>Rating:8.1/10</item>
+        <item>Rating:8.2/10</item>
+        <item>Rating:8.8/10</item>
+        <item>Rating:7.6/10</item>
+        <item>Rating:7.2/10</item>
+        <item>Rating:7.7/10</item>
+
+
+    </string-array>
+</resources>
